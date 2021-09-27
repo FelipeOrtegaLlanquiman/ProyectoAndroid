@@ -1,0 +1,29 @@
+com/example/barbercalendar/MainActivity.java
+ com.example.barbercalendar.MainActivity
+ com.example.barbercalendar.MainActivity$1
+ com.example.barbercalendar.MainActivity$2
+com/example/barbercalendar/databinding/ContentRegisterUserBinding.java
+ com.example.barbercalendar.databinding.ContentRegisterUserBinding
+com/example/barbercalendar/RegisterUser2.java
+ com.example.barbercalendar.RegisterUser2
+com/example/barbercalendar/databinding/ActivityRegisterUser2Binding.java
+ com.example.barbercalendar.databinding.ActivityRegisterUser2Binding
+com/example/barbercalendar/databinding/FragmentFirstBinding.java
+ com.example.barbercalendar.databinding.FragmentFirstBinding
+com/example/barbercalendar/BuildConfig.java
+ com.example.barbercalendar.BuildConfig
+com/example/barbercalendar/FirstFragment.java
+ com.example.barbercalendar.FirstFragment
+ com.example.barbercalendar.FirstFragment$1
+com/example/barbercalendar/databinding/ActivityRegisterUserBinding.java
+ com.example.barbercalendar.databinding.ActivityRegisterUserBinding
+com/example/barbercalendar/databinding/FragmentSecondBinding.java
+ com.example.barbercalendar.databinding.FragmentSecondBinding
+com/example/barbercalendar/SecondFragment.java
+ com.example.barbercalendar.SecondFragment
+ com.example.barbercalendar.SecondFragment$1
+com/example/barbercalendar/databinding/ActivityMainBinding.java
+ com.example.barbercalendar.databinding.ActivityMainBinding
+com/example/barbercalendar/RegisterUser.java
+ com.example.barbercalendar.RegisterUser
+ com.example.barbercalendar.RegisterUser$1
