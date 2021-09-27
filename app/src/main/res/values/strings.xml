@@ -1,0 +1,32 @@
+<resources>
+    <!-- Variables login -->
+    <string name="app_name">CalendarBarber</string>
+    <string name="login_mail">Correo</string>
+    <string name="login_pass">Contrasena</string>
+    <string name="login_btn">Ingresar</string>
+    <string name="login_register">registrar</string>
+
+    <string name="welcome">Bienvenido a CalendarBarber</string>
+
+    <!-- Variables register -->
+    <string name="register_name">Nombre</string>
+    <string name="register_mail">Correo</string>
+    <string name="register_fecha">Fecha de nacimiento</string>
+    <string name="register_genero">Genero</string>
+    <string name="register_genero_M">Masculino</string>
+    <string name="register_genero_F">Femenino</string>
+    <string name="register_pass">Contrasena</string>
+    <string name="register_rpass">Repetir Contrasena</string>
+    <string name="register_btn">Registrar usuario</string>
+
+
+
+
+    <!-- Variables errores -->
+    <string name="error_mail_null">El Campo mail no debe estar vacio</string>
+    <string name="error_text_null">El Campo no debe estar vacio</string>
+    <string name="error_mail_wrongformat">El campo mail debe ser: ejemplo@ejemplo.com</string>
+    <string name="error_name_wrongformat">El nombre no debe tener numeros o caracteres especiales</string>
+    <string name="error_pass_wrongformat">las password no coinciden</string>
+
+</resources>
