@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.barbercalendar"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="20"
+8-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:5:5-29:19
+12        android:allowBackup="true"
+12-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\GorillaSetups\.gradle\caches\transforms-3\e759884e8e1539e68246ec4d8729cc98\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.BarberCalendar" >
+20-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:11:9-52
+21        <activity
+21-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:12:9-14:39
+22            android:name="com.example.barbercalendar.RegisterUser2"
+22-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:13:13-42
+23            android:exported="true" />
+23-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:14:13-36
+24        <activity
+24-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:15:9-19:71
+25            android:name="com.example.barbercalendar.RegisterUser"
+25-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:16:13-41
+26            android:exported="true"
+26-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:17:13-36
+27            android:label="@string/title_activity_register_user"
+27-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:18:13-65
+28            android:theme="@style/Theme.BarberCalendar.NoActionBar" />
+28-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:19:13-68
+29        <activity
+29-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:20:9-28:20
+30            android:name="com.example.barbercalendar.MainActivity"
+30-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:21:13-41
+31            android:exported="true" >
+31-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:22:13-36
+32            <intent-filter>
+32-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:23:13-27:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:24:17-69
+33-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:24:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:26:17-77
+35-->C:\Users\GorillaSetups\Desktop\proyectos\BarberCalendar\app\src\main\AndroidManifest.xml:26:27-74
+36            </intent-filter>
+37        </activity>
+38    </application>
+39
+40</manifest>
